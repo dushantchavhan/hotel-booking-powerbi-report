@@ -1,5 +1,5 @@
 # 🏨 Hotel Booking Analysis – Power BI Report 
-
+ 
 ## 📌 Project Overview
 This Power BI project analyzes hotel booking data to identify trends, revenue patterns, and customer behavior insights.
 
